@@ -1,6 +1,6 @@
-# Serenity Bot
+# Ophelia Bot
 
-Serenity is a multifunctional Discord bot designed to enhance your server experience.
+Ophelia is an open sourced, public version of Serenity! Ophelia is a multifunctional Discord bot designed to enhance your server experience.
 
 ## Features
 
@@ -18,8 +18,8 @@ Serenity is a multifunctional Discord bot designed to enhance your server experi
 ### Clone the Repository
 
 ```Bash
-git clone https://github.com/yourusername/serenity-bot.git
-cd serenity-bot
+git clone https://github.com/yourusername/ophelia-bot.git
+cd ophelia-bot
 ```
 ## License
 

@@ -26,7 +26,4 @@ cd ophelia-bot
 This project is licensed under the Creative Commons Attribution 4.0 International License. You are free to share, modify, and distribute this work, even for commercial purposes, as long as proper credit is given. 
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-See the [LICENSE](LICENSE) file for details.
-
-![image](https://github.com/user-attachments/assets/fbdb8f9c-abd9-4a48-9a8c-89d88707f664)
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Ophelia Bot</span> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://serenity.rip">Serenity Studios</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
